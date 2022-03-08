@@ -1,0 +1,26 @@
+body {
+ background-color: rgb(20, 180, 220);
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+
+    
+
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 50%;
+
+}
+
+label {
+    display: block;
+    width: 50%;
+
+}
+
+
